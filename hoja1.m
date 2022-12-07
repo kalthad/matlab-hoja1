@@ -5,7 +5,7 @@
 % 
 % *Apellido:* Brauer
 % 
-% *DNI:*
+% *DNI:* 12345678
 %% 
 % %% Práctica 1 (EDO de corazón)
 % Considera el siguiente PVI
